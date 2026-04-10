@@ -72,4 +72,4 @@ MIT License – bebas digunakan, Free Tidak boleh dijual
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/> </p>
 
-<p align="center"> <b>Made with dedication by Mpan HUB – Best Free Roblox Scripts</b><br> <i>Violence District or Distrik Kekerasan</i> </p>
+<p align="center"> <b>Made by Mpan HUB – Best Free Roblox Scripts</b><br> <i>Violence District or Distrik Kekerasan</i> </p>
